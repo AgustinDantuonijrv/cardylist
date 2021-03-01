@@ -2,6 +2,8 @@
 
 using custom listview in flutter
 
+se busca agregar el paquete para manejar un reproductor de videos asociado a cada curso y luego agregar cursos nuevos por medio de un formulario
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
